@@ -1,0 +1,30 @@
+body {
+    background-color: #BFD8D2;
+}
+
+.ingredients, .steps, .description {
+    background-color: #FEDCD2;
+    font-style: "Times New Roman";
+}
+
+.ingredients h2, .ingredients h3, .steps h2, .steps h3, .description h2 {
+    background-color: #ffd865;
+}
+
+h1, h2, h3 {
+    font-style: italic;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+p, li {
+    font-size: 18px;
+}
+
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
